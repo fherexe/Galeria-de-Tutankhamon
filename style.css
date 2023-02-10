@@ -108,11 +108,11 @@ img {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    transition: all .9s cubic-bezier(1, 1, 1, 1.5);
+    transition: all .9s cubic-bezier(1, 1, 1, 1.2);
 }
 
 .galeria > div:hover { 
-    flex: 3;
+    flex: 5;
 }
 
 .second-header h2 {
